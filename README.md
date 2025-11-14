@@ -43,18 +43,6 @@ Magnetorheological (MR) fluids are smart fluids that undergo reversible phase tr
    git clone https://github.com/username/repository.git
    cd repository
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the model scripts:
-   ```bash
-   python train_model.py
-   ```
-4. Use pre-trained models for predictions:
-   ```bash
-   python predict.py --input input_data.csv
-   ```
 
 ---
 
