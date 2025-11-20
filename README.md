@@ -4,17 +4,6 @@ This repository contains the data, code, and supplementary materials for the res
 
 The research presents a machine learning-based approach to model and predict the magnetorheological (MR) behavior of magnetite-based MR fluids, significantly reducing the need for costly and time-consuming laboratory experiments.
 
-## Table of Contents
-
-- [Abstract](#abstract)  
-- [Features](#features)  
-- [Usage](#usage)  
-- [Data](#data)  
-- [Models](#models)  
-- [Results](#results)  
-- [Citation](#citation)  
-- [Acknowledgments](#acknowledgments)
-
 ---
 
 ## Abstract
